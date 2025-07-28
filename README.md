@@ -7,6 +7,7 @@ With the increase in online payment systems, the threat of fraud has grown signi
 **📊 Dataset**
 **Source:** Kaggle
 **Size:** ~1 million records
+
 **Features:**
 * Type of transaction
 * Amount
@@ -26,4 +27,4 @@ With the increase in online payment systems, the threat of fraud has grown signi
 * Confusion Matrix
 * Precision, Recall, F1-Score
 * AUC-ROC Curve
-* 
+
