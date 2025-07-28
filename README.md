@@ -28,3 +28,8 @@ With the increase in online payment systems, the threat of fraud has grown signi
 * Precision, Recall, F1-Score
 * AUC-ROC Curve
 
+**🧪 Results :**
+Random Forest gave the best results:
+   * Accuracy: 96.2%
+   * Precision: 99.7%
+   * Excellent performance even on imbalanced data
